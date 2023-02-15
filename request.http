@@ -1,0 +1,12 @@
+
+POST  http://localhost:3333/alcaldia/registro-usuarios
+Content-Type: application/json
+
+{
+    "codigo_usuario": 10011,
+    "nombre_usuario": "julio",
+    "contrasena": 3114545,
+    "email": "User@gmail.com",
+    "telefono": "313256906"
+
+}
